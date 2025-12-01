@@ -1,20 +1,35 @@
-胖东来
-于东来
+AI
+人工智能
 
 DeepSeek
-梁文锋
+
+gemini
+
+deepmind
+
+doubao
+豆包
+
+kimi
+
+MiniMax
+
+openai
+chatgpt
+sora
+
+Anthropic
+claude
 
 华为
 鸿蒙
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
 大疆
 DJI
 
+机器人
 宇树
 王兴兴
 
@@ -23,34 +38,14 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
+特斯拉
+马斯克
 
 字节
 bytedance
-张一鸣
 
-特斯拉
-马斯克
+谷歌
+google
 
 微软
 Microsoft
@@ -58,33 +53,16 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
 
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
+苹果
+Apple
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-
 自动驾驶
-
-机器人
 
 国产
 中国
@@ -93,21 +71,26 @@ ai
 日本
 韩国
 
-芯片
-光刻机
-
 科技
-
 核能
+能源
 
-水电站
-雅鲁藏布江
+创业
+自由职业
+自媒体
+博主
+UP主
+网红
 
-新质生产力
+程序员
+软件工程师
+职业
+开发
+研发
+编程
+接单
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+知乎
+小红书
+bilibili
+YouTube
